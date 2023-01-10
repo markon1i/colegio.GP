@@ -1,0 +1,79 @@
+.div-mayor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.form-email{
+    align-content: center;
+    display:flex;
+    flex-direction:column;
+    width: 500px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin:30px auto;
+    background-color: rgba(0, 0, 0, 0.838) !important;
+    width: 500px;
+    height: 700px;
+    border-radius: 15px;
+}
+
+.title-form{
+    font-size: 39px;
+    padding-left: 0px;
+    margin-bottom: 0;
+    font-weight: 100;
+    text-shadow: 2px 2px 5px rgb(8, 8, 8, .30);
+    color: #2718f7;
+}
+.contenedorInpputss{
+    align-content: center;
+    display:flex;
+    flex-direction:column;
+     width: 800px; 
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 25px auto;
+
+
+}
+
+.formEmail{
+    background-color: #23252E;
+    border: 1px solid #2718f7;
+    width: 300px; 
+    color: rgba(196, 248, 166, 0.798);
+    font-size: 20px;
+    border-radius: 5px ;
+}
+
+
+
+
+.mensaje-form{
+    height: 150px;
+    font-size: 20px;
+    background-color: #23252E;
+    border: 1px solid #84c95f;
+    width: 350px; 
+    color: rgba(3, 7, 0, 0.798);
+    border-radius: 5px ;
+}
+
+.h4-form{
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color:#010008;
+}
+
+.modal-header{
+    background-color: #2718f7;
+    border: 1px solid #2718f7;
+    color: #010008;
+}
+
+.form-row{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
