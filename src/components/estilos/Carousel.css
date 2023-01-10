@@ -4,3 +4,8 @@
     margin-top: 5%;
     padding-top: 0%;
 }
+
+.d-block.w-100{
+    text-decoration: none;
+    text-align: center;
+}
