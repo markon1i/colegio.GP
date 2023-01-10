@@ -13,7 +13,7 @@ export default function Contacto({ setModal, modal }) {
     asunto: "",
     mensaje: "",
   });
- 
+ const a = "a";
   const [input, setInput] = useState({
     nombre: "",
     asunto: "",
