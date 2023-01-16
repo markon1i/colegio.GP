@@ -29,22 +29,22 @@ export default function Navbar() {
               HISTORIA
             </button>
           </Link>
-          <Link to={"/Tasaciones"}>
+          <Link to={"/Niveles"}>
             <button onClick={handleClick} className="btn-nav">
               NIVELES
             </button>
           </Link>
-          <Link to={"/Venta"}>
+          <Link to={"/Institucional"}>
             <button onClick={handleClick} className="btn-nav">
               INSTITUCIONAL
             </button>
           </Link>
-          <Link to={"/Alquiler"}>
+          <Link to={"/Actividades"}>
             <button onClick={handleClick} className="btn-nav">
               ACTIVIDADES
             </button>
           </Link>
-          <Link to={"/Nosotros"}>
+          <Link to={"/Deportes"}>
             <button onClick={handleClick} className="btn-nav">
               DEPORTES
             </button>
